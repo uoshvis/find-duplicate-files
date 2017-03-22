@@ -7,7 +7,7 @@ Returns duplicate files in duplicates.txt output file
 Originally taken from:
 http://pythoncentral.io/finding-duplicate-files-with-python/
 
-Usage:
-'>> python find_duplicate_files.py folder'
-OR 
+Single folder usage:
+>> python find_duplicate_files.py folder
+Multiple folders usage:
 >> python find_duplicate_files.py folder1 folder2 folder3
