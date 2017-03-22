@@ -9,5 +9,6 @@ http://pythoncentral.io/finding-duplicate-files-with-python/
 
 Single folder usage:
 >> python find_duplicate_files.py folder
+
 Multiple folders usage:
 >> python find_duplicate_files.py folder1 folder2 folder3
