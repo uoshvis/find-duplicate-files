@@ -8,7 +8,8 @@ Returns duplicate files in duplicates.txt output file
 Originally taken from:
 http://pythoncentral.io/finding-duplicate-files-with-python/
 
-Modifications by:
+Modifications from:
+
 https://github.com/IanLee1521/utilities/commit/263a0e63503d41df961a352772763e83cf69baf9#diff-880bd89719233299f79774650259c095L11
 
 http://codereview.stackexchange.com/questions/93546/find-and-remove-duplicate-files-in-one-or-more-directories
